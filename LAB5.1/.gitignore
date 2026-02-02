@@ -1,0 +1,6 @@
+# Environment variables file - do not commit
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
